@@ -1,7 +1,7 @@
 {
   "name": "djs",
   "version": "1.0.0",
-  "description": "",
+  "description": "`npm install` - install all required dependancies",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -15,5 +15,16 @@
     "glob": "^7.1.7",
     "mongoose": "^6.0.2",
     "node-fetch": "3.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Infinitybeond1/BrickBot-v13.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Infinitybeond1/BrickBot-v13/issues"
+  },
+  "homepage": "https://github.com/Infinitybeond1/BrickBot-v13#readme",
+  "devDependencies": {
+    "node": "^16.11.1"
   }
 }
