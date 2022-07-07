@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/Infinitybeond1/BrickBot-v13#readme",
   "devDependencies": {
-    "node": "^16.11.1"
+    "node": "^18.5.0"
   }
 }
